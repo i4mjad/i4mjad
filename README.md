@@ -3,7 +3,7 @@
 ## I'm a Software Developer
 
 - 🌱 I’m currently playing with Angular on Web, Flutter on Mobile
-- ⚡ Fun fact: I like playing with Rubiks Cube, A LOT
+- ⚡ Fun fact: My PB record solving 3x3 Rubiks Cube is 22 seconds!
 
 ### Connect with me:
 
